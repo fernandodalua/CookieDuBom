@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace CookieDuBom
+namespace Order
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -22,12 +22,6 @@ namespace CookieDuBom
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Control janela = new Control();
-            janela.ShowDialog();
         }
     }
 }

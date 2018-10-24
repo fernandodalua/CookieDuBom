@@ -3,7 +3,39 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="CookieDuBom" Height="600" Width="800" Background="#FFF3F5C7">
     <Grid>
-        <Image HorizontalAlignment="Left" Height="75" Margin="24,199,0,0" VerticalAlignment="Top" Width="233" Source="pack://application:,,,/CookieDuBom;component/images/cookiedubom-logo2.png"/>
+        <Image HorizontalAlignment="Left" Height="75" Margin="24,199,0,0" VerticalAlignment="Top" Width="212" Source="pack://application:,,,/CookieDuBom;component/images/cookiedubom-logo2.png"/>
+        <Button Content="Entregas" HorizontalAlignment="Left" Margin="232,54,0,0" VerticalAlignment="Top" Width="99" FontSize="14" Height="32"/>
+        <Button Content="Cadastro" HorizontalAlignment="Left" Margin="128,54,0,0" VerticalAlignment="Top" Width="99" FontSize="14" Height="32"/>
+        <Button Content="Caixa" HorizontalAlignment="Left" Margin="24,54,0,0" VerticalAlignment="Top" Width="99" FontSize="14" Height="32"/>
+        <Button Content="Balcão" HorizontalAlignment="Left" Margin="336,54,0,0" VerticalAlignment="Top" Width="99" FontSize="14" Height="32"/>
+        <StackPanel Background="White" HorizontalAlignment="Left" Height="289" Margin="262,108,0,0" VerticalAlignment="Top" Width="508">
+            <Image Height="70" Margin="0,0,433,0" Source="images/icon_rest.png" />
+            <Image Height="70" Margin="0,0,433,0" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="0,0,433,0" Source="pack://application:,,,/CookieDuBom;component/images/icon_rest.png"  />
+            <Image Height="70" Margin="0,0,433,0" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="80,-490,353,0" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="80,-490,353,-140" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="80,-490,353,-280" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="80,-490,353,-420" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="160,-490,270,0" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="160,-490,270,-140" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="160,-490,270,-280" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="160,-490,270,-420" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="240,-490,190,0" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="240,-490,190,-140" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="240,-490,190,-280" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="240,-490,190,-420" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="320,-490,110,0" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="320,-490,110,-140" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="320,-490,110,-280" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="320,-490,110,-420" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="380,-490,10,0" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="380,-490,10,-140" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="380,-490,10,-280" Source="images/icon_rest.png"  />
+            <Image Height="70" Margin="380,-490,10,-420" Source="images/icon_rest.png"  />
+            
+        </StackPanel>
+
 
     </Grid>
 </Window>

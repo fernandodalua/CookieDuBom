@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/cookiedubom-logo2.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/icon_rest.png")]
 
 

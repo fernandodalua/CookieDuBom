@@ -11,3 +11,5 @@ C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\
 C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\CookieDuBom.pdb
 C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\Control.baml
 C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\Control.g.cs
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\Order.baml
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\Order.g.cs
