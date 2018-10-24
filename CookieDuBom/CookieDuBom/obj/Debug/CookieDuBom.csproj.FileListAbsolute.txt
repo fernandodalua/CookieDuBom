@@ -1,0 +1,13 @@
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\bin\Debug\CookieDuBom.exe
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\bin\Debug\CookieDuBom.pdb
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\MainWindow.baml
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\MainWindow.g.cs
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\App.g.cs
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\CookieDuBom_MarkupCompile.cache
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\CookieDuBom.g.resources
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\CookieDuBom.Properties.Resources.resources
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\CookieDuBom.csproj.GenerateResource.Cache
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\CookieDuBom.exe
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\CookieDuBom.pdb
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\Control.baml
+C:\Users\fernando\Documents\Visual Studio 2013\Projects\CookieDuBom\CookieDuBom\CookieDuBom\obj\Debug\Control.g.cs
